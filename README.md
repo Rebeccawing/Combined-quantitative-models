@@ -9,9 +9,11 @@ Also the API setting files and data I used are not included in this repository.
 This repository contains:
 
 1. strategy files
-2. run scripts
-3. strategy summary
+2. run scripts       x
+3. strategy summary  x
 4. flow chart
+5. presentation      x
+6. setting files     x
 
 It is not the final one, especially for strategy summary.
 
