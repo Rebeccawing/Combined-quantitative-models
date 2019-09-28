@@ -1,8 +1,8 @@
 #########################overall claim#######################################
 # Combined-quantitative-models
-The Narrow channel break out and shape V strategies combined in an integration. 
+An innovative minute-level CTA strategy on Hang Seng Index futures including the Narrow channel break out and shape V strategies combined in an integration. 
 This public repository does not contain anything on back testing and simulation, for I cannot put the result and all optimizations publicly!
-So if you use this strategy to your investment, you should take all the responsibilities!
+If you use this strategy to your investment, you should take all the responsibilities!
 
 Also the API setting files and data I used are not included in this repository.
 
